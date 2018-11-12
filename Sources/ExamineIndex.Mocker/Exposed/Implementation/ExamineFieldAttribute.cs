@@ -6,6 +6,7 @@
     /// Defines the field name, type and sorting possibility. 
     /// Use this attribute for the properties you want to be indexed.
     /// </summary>
+    [AttributeUsage(AttributeTargets.Property, AllowMultiple = true)]
     public class ExamineFieldAttribute : Attribute
     {
         /// <summary>

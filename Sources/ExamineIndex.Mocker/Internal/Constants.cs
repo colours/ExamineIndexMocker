@@ -8,6 +8,10 @@
         {
             internal const string Number = "NUMBER";
 
+            internal const string Int = "INT";
+
+            internal const string Float = "FLOAT";
+
             internal const string Double = "DOUBLE";
 
             internal const string Long = "LONG";
@@ -23,8 +27,6 @@
             internal const string Hour = "DATE.HOUR";
 
             internal const string Minute = "DATE.MINUTE";
-
-            internal const string Int = "INT";
         }
     }
 }

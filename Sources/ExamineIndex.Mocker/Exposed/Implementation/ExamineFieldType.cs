@@ -7,9 +7,10 @@
     {
         String,
         Number,
+        Int,
+        Float,
         Double,
         Long,
-        Int,
         DateTime,
         Year,
         Month,

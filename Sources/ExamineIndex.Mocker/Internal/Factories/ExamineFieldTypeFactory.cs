@@ -28,6 +28,9 @@
                 case ExamineFieldType.Minute:
                     examineFieldType = Constants.ExamineFieldTypes.Minute;
                     break;
+                case ExamineFieldType.Float:
+                    examineFieldType = Constants.ExamineFieldTypes.Float;
+                    break;
                 case ExamineFieldType.Double:
                     examineFieldType = Constants.ExamineFieldTypes.Double;
                     break;
